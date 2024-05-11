@@ -1,2 +1,2 @@
-# ProjetoImersaoGoogleAI
+# AtividadesImersaoGoogleAI
 Projeto Imersão Google AI
