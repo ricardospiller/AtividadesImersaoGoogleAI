@@ -1,2 +1,2 @@
-# ProjetoImers-oGoogleAI
+# ProjetoImersaoGoogleAI
 Projeto Imersão Google AI
